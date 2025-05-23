@@ -17,5 +17,5 @@ Community-Powered: Vote in polls, review mods, and join an active community that
 Ready to Explore?
 Join thousands of Minecraft fans who have already discovered the future of modding. Whether you’re here to find the latest mods or showcase your own, MineHubX has everything you need.
 
-👉 Visit MineHubX now: https://yourwebsite.com
+👉 Visit MineHubX now: (https://minehubx.pages.dev/)
 Experience Minecraft modding like never before!
